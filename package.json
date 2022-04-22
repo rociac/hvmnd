@@ -9,6 +9,9 @@
   "devDependencies": {
     "eslint": "^8.13.0"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@discordjs/builders": "^0.13.0",
     "@discordjs/rest": "^0.4.1",
