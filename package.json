@@ -1,0 +1,20 @@
+{
+  "name": "hvmnd",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "repository": "git@github.com:rociac/hvmnd.git",
+  "author": "rociac <brsrkdev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "yarn": "^1.22.18"
+  }
+}
